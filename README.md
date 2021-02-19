@@ -4,7 +4,7 @@ UC Irvine (2017) :pill: and Hackbright Academy (July 2020) Alum :mortar_board: s
 
 Checkout my [Portfolio](https://juliemyhu.github.io/)!
 
-:rocket: 2021 Techstack Goals :apple:
+:rocket: 2021 Goals :apple:
 
 - Javascript30 (30 day Vanilla JS Coding Challenge) _in progress_
 - Typescript
