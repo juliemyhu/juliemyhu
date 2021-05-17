@@ -6,6 +6,6 @@ Checkout my [Portfolio](https://juliemyhu.github.io/)!
 
 :rocket: 2021 Goals :apple:
 
-- Javascript30 (30 day Vanilla JS Coding Challenge) _in progress_
+- Javascript30 (30 day Vanilla JS Coding Challenge) _completed_
 - Typescript
 - Java
