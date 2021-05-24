@@ -8,4 +8,4 @@ Checkout my [Portfolio](https://juliemyhu.github.io/)!
 
 - Javascript30 (30 day Vanilla JS Coding Challenge) _completed_
 - Typescript
-- Java
+- Java _in progress_
