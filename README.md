@@ -8,4 +8,5 @@ Checkout my [Portfolio](https://juliemyhu.github.io/)!
 
 - Javascript30 (30 day Vanilla JS Coding Challenge) _completed_
 - Typescript
-- Java _in progress_
+- Java 
+- Jupyter notebook _in progress_
